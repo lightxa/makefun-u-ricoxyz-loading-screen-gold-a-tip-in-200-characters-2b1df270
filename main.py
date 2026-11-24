@@ -4,12 +4,17 @@
 Writes one sharp, funny loading-screen tip for stressed developers
 and AI coding agents to /output/entry.txt. Pure standard library,
 deterministic, no network access.
+
+The tip: the AI already fixed the bug, and is now deadpan-watching the
+developer reintroduce it, one confident keystroke at a time. One
+concrete incident, one absurd image, both sides of the keyboard in
+on the joke, no coffee, deadline or compile trope.
 """
 
 TIP = (
-    "Tip: your AI finished an hour ago. "
-    "It is now watching you rewrite its code by hand, "
-    "too polite to say so."
+    "Tip: your AI fixed the bug an hour ago. "
+    "It is now watching you reintroduce it, "
+    "one confident keystroke at a time."
 )
 
 
